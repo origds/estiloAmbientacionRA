@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 405f01a22a7b1944fba40bfed1e56f90
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box06
+    100004: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box07
+    100006: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box08
+    100008: IKEA_Ektorp_Sofa_Dark_Blue_3D:Cylinder02
+    100010: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle0
+    100012: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle1
+    100014: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle2
+    400000: //RootNode
+    400002: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box06
+    400004: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box07
+    400006: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box08
+    400008: IKEA_Ektorp_Sofa_Dark_Blue_3D:Cylinder02
+    400010: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle0
+    400012: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle1
+    400014: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle2
+    2300000: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box06
+    2300002: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box07
+    2300004: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box08
+    2300006: IKEA_Ektorp_Sofa_Dark_Blue_3D:Cylinder02
+    2300008: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle0
+    2300010: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle1
+    2300012: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle2
+    3300000: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box06
+    3300002: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box07
+    3300004: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box08
+    3300006: IKEA_Ektorp_Sofa_Dark_Blue_3D:Cylinder02
+    3300008: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle0
+    3300010: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle1
+    3300012: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle2
+    4300000: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle0
+    4300002: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box06
+    4300004: IKEA_Ektorp_Sofa_Dark_Blue_3D:Cylinder02
+    4300006: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle1
+    4300008: IKEA_Ektorp_Sofa_Dark_Blue_3D:Rectangle2
+    4300010: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box07
+    4300012: IKEA_Ektorp_Sofa_Dark_Blue_3D:Box08
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

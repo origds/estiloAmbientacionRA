@@ -1,0 +1,38 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M       (ID=0x1058)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\RealidadAumentada\Unity\Proyecto3Version1\EstiloAmbientacion_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.985994 ms
+Can't add component because class 'PremiumObjectFactoryStarterBehaviour' doesn't exist!
+ 
+(Filename:  Line: 38)
+
+Can't add component because class 'PremiumComponentFactoryStarterBehaviour' doesn't exist!
+ 
+(Filename:  Line: 38)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1240.
+Total: 0.569610 ms (FindLiveObjects: 0.045757 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.152666 ms  DeleteObjects: 0.010263 ms)
+
